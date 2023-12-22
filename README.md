@@ -6,8 +6,8 @@ Consiste em uma página de Login utilizando Next, MUI e suas tecnologias. Existe
 
 ## Credenciais para efetuar Login
 
-email: enzopvn@hotmail.com
-senha: 123456
+- E-mail:  enzopvn@hotmail.com
+- Senha:  123456
 
 ## Instalação
 
